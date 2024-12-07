@@ -1,0 +1,14 @@
+.theme-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+}
+input{
+    margin-bottom: -4px;
+    width: 30px;
+}
+span{
+    font-size: 14px;
+    color: olivedrab;
+}

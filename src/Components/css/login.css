@@ -1,0 +1,29 @@
+.login-div{
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+}
+label{
+    color: gray;
+    /* padding: 10px; */
+}
+input{
+    height: 40px;
+    margin-bottom: 10px;
+    border-color: rgb(141, 141, 236);
+    border-radius: 8px;
+}
+
+button{
+    margin: 10px auto;
+    max-width: 150px;
+    /* margin: 10px; */
+    border-radius: 8px;
+    padding: 8px 24px;
+    border-style: none;
+    background-color: orangered;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
